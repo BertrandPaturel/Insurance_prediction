@@ -10,3 +10,4 @@ Files :
 
 - You will find the full model in the Insurance Classifier file, which is a jupyter Notebook
 - All the data used in auto-insurance-fall-2017 file
+- My prediction in csv in the file : test_with_prediction.csv
